@@ -1,4 +1,6 @@
-Number Formatter
+Number Formatter 
+[![Build Status](https://travis-ci.org/kylehengst/number-formatter.svg?branch=master)](https://travis-ci.org/kylehengst/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/kylehengst/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/kylehengst/number-formatter?branch=master)
 =========
 
 A small library that adds commas to numbers
