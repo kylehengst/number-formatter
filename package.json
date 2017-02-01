@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "0.0.1",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylehengst/number-formatter.git"
+  },
+  "author": "ippkyle <kyle.hengst@ipushpull.com> (www.ipushpull.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylehengst/number-formatter/issues"
+  },
+  "homepage": "https://github.com/kylehengst/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
